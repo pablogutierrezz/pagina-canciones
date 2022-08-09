@@ -1,0 +1,15 @@
+main{
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    overflow: auto;
+}
+blockquote, .descripcion{
+    white-space: pre-wrap;
+}
+.error{
+    border: 2px solid red;
+}
+.img-loader{
+    width: 55px;
+}
